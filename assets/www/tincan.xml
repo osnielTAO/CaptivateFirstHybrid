@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tincan xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="https://taoconnect.org/captivate-activity/cbt/m5/s1/core-beliefs" type="http://adlnet.gov/expapi/activities/course">
+			<name>CBT M5 S1: Core Beliefs</name>
+			<description lang="en-US">Course Description.</description>
+			<launch lang="en-US">index_TINCAN.html</launch>
+		</activity>
+	</activities>
+</tincan>
