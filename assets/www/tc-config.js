@@ -3,13 +3,13 @@
 //
 // ActivityID that is sent for the statement's object
 //
-TC_COURSE_ID = "https://taoconnect.org/captivate-activity/cbt/m5/s1/core-beliefs";
+TC_COURSE_ID = "https://taoconnect.org/captivate-activity/anxiety/m3/s5/core-beliefs";
 
 //
 // CourseName for the activity
 //
 TC_COURSE_NAME = {
-    "en-US": "CBT M5 S1: Core Beliefs"
+    "en-US": "Anxiety M3 S5: Core Beliefs"
 };
 
 //

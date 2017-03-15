@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CPApp.iml" filepath="$PROJECT_DIR$/CPApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CaptivateFirstHybrid.iml" filepath="$PROJECT_DIR$/CaptivateFirstHybrid.iml" />
       <module fileurl="file://$PROJECT_DIR$/CordovaLib/CordovaLib.iml" filepath="$PROJECT_DIR$/CordovaLib/CordovaLib.iml" />
     </modules>
   </component>
